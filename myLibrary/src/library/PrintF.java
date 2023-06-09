@@ -1,3 +1,5 @@
+package library;
+
 public class PrintF {
     public static void main(String[] args) {
         int sumPromo = 0;
